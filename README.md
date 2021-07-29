@@ -1,8 +1,8 @@
-# Tableau_Business_KPI_Analysis
+# Tableau Business KPI Analysis
 Creating KPI visualisations using Tableau.
 
 
-# HYPOTHETICAL CASE STUDY:
+## HYPOTHETICAL CASE STUDY:
 
 The case study is about the large international gym chain "Gloabl Fitness" with world class trainers and knwon for offering exciting fitness classes to their clients. The gym currently offers 8 different classes and 2 different subscription plans listed below:
 
@@ -11,14 +11,14 @@ The case study is about the large international gym chain "Gloabl Fitness" with 
 Working for the Business Intelligence Team, we are tasked with creating a Dashboard (Tableau) for mangagers to visualise the companies performance and validate KPI's for relevant departments. 
 
 
-# 4 KPIs:
+## 4 KPIs:
 
 1. Sales
 2. Customer experience
 3. HR
 4. Marketing
 
-# SALES KPI
+## SALES KPI
 
 - Sales Validation
 - Monthly Revenue
@@ -40,7 +40,8 @@ Recommendations:
 - Potentially launch promotional campaign during months September-November
 - Consider reducing number of Quarterly plans and offering more Annual subscriptions 
 
-# Customer Experience KPIs
+
+## Customer Experience KPIs
 
 - Dropout vs Refferal
 - Positive vs Negative comments from the website
@@ -60,7 +61,7 @@ Recommendations:
 - Investigation into rating drop in week 47
 
 
-# HR KPIs
+## HR KPIs
 
 - Internal hire
 - Retention rate
@@ -75,7 +76,8 @@ Recommendations:
 - Develop initiatives to retain employees, as training new staff can be expensive and time consuming 
 - Futher investigation into which departments are having the highest employee turnover rate
 
-# Marketing KPIs
+
+## Marketing KPIs
 
 - New users on website
 - Conversion rate (fulfilling the goal)
